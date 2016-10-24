@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Lato/LatoRegular/LatoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato/LatoRegular/LatoRegular.woff") format("woff"), url("../fonts/Lato/LatoRegular/LatoRegular.ttf") format("truetype"), url("../fonts/Lato/LatoRegular/LatoRegular.svg#cuprumffuregular") format("svg"); }
+
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/Lato/LatoLight/LatoLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato/LatoLight/LatoLight.woff") format("woff"), url("../fonts/Lato/LatoLight/LatoLight.ttf") format("truetype"), url("../fonts/Lato/LatoLight/LatoLight.svg#cuprumffuregular") format("svg"); }
+
+@font-face {
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../fonts/Lato/LatoItalic/LatoItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato/LatoItalic/LatoItalic.woff") format("woff"), url("../fonts/Lato/LatoItalic/LatoItalic.ttf") format("truetype"), url("../fonts/Lato/LatoItalic/LatoItalic.svg#cuprumffuregular") format("svg"); }
+
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/Lato/LatoBold/LatoBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Lato/LatoBold/LatoBold.woff") format("woff"), url("../fonts/Lato/LatoBold/LatoBold.ttf") format("truetype"), url("../fonts/Lato/LatoBold/LatoBold.svg#cuprumffuregular") format("svg"); }
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome/fontawesome-webfont.eot?v=4.6.3');
+  src: url('../fonts/fontawesome/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('../fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('../fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('../fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('../fonts/fontawesome/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

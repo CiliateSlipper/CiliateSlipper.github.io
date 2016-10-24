@@ -1,0 +1,70 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.go-to-top {
+		right: 0;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	section {
+		padding: 40px 0;
+	}
+
+	h3 + p {
+	margin-bottom: 25px;
+	font-size: 16px;
+}
+
+	.navbar-brand {
+		padding: 20px 20px 20px 60px;
+		height: 60px;
+	}
+
+	.navbar-toggle {
+		margin-top: 13px;
+	}
+	
+	.jumbotron h1 {
+	    font-size: 46px;
+	    margin-bottom: 20px;
+	    font-weight: 300;
+	}
+
+	.jumbotron p {
+		margin-bottom: 30px;
+		font-size: 16px;
+	}
+
+	.btn-group .btn {
+		padding: 5px 6px;
+		font-size: 11px;
+		width: 65px;
+		height: 26px;
+		overflow: hidden;
+		white-space: pre-wrap;
+	}
+	
+	.btn-group .btn + .btn {
+	    margin-left: 5px;
+	}
+	
+	footer {
+		padding: 20px 30px 0 0;
+	}
+
+	.copyright span:nth-child(1):before {
+		content: "";
+	}
+
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	.last-group {
+		margin-bottom: 0;
+	}
+}
